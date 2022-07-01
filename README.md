@@ -1,5 +1,5 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kennethlaskoski&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kennethlaskoski&theme=radical&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kennethlaskoski&theme=radical&layout=compact&hide=tex,html,css,scss,javascript" />
